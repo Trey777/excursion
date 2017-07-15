@@ -1,19 +1,25 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Verdana;
   text-align: center;
+}
+
+h1 {
+font: 50px Verdana;
+font-weight: normal;
+color: white;
+  
 }
 
 body {
   margin: 0 auto;
   max-width: 90em;
+  background-color:black;
 }
 
 
 }
 
-h1 {
-  color: green;
-}
+
 
 
 
