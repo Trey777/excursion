@@ -5,6 +5,7 @@ body {
   background-color:black;
   text-align: center;
   color:grey;
+  background-size: cover;
 }
 
 
@@ -34,9 +35,13 @@ h1 {
 	text-align: right;
 }
 
+a {
+	color: hotpink;
+}
 
-
-
+.return {
+	text-align: left;
+}
 
 
 
