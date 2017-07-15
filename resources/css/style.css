@@ -1,23 +1,40 @@
-* {
-  font-family: Verdana;
-  text-align: center;
-}
-
-h1 {
-font: 50px Verdana;
-font-weight: normal;
-color: white;
-  
-}
-
 body {
+  font-family: Verdana;
   margin: 0 auto;
   max-width: 90em;
   background-color:black;
+  text-align: center;
+  color:grey;
 }
 
 
+h1 {
+	font: 50px;
+	font-weight: normal;
+	color: white;
+ }
+
+ h2 {
+ 	font: 42px;
+ 	font-weight: 300px;
+ 	color: white;
+
+ }
+
+ p {
+ 	font: 21px;
+ }
+
+.downloadlink p {
+	font: 16px;
+	color: aquamarine;
 }
+
+.footer {
+	text-align: right;
+}
+
+
 
 
 
